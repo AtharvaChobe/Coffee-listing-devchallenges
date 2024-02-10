@@ -40,7 +40,7 @@ const GetData = () => {
 
     return (
         <>
-            <div className='bg-black flex items-center justify-center flex-col w-9/12 gap-2 mt-12 p-8 rounded-lg'>
+            <div className='bg-black flex items-center justify-center flex-col w-10/12 gap-2 mt-40 p-8 rounded-lg'>
                 <h1 className='text-cream'>Our Collection</h1>
                 <p className='text-slate text-center w-3/4 md:w-1/2'>Introducing our Coffee Collection, a selection of unique coffees from different roast types and origins, expertly roasted in small batches and shipped fresh weekly.</p>
                 <div className='flex gap-3 mt-4'>
